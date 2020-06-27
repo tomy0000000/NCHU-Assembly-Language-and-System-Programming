@@ -2,8 +2,11 @@
 
 ## Homework
 
-| #    | Title       |
-| ---- | ----------- |
-| 1    | Hello World |
-| 2    | Register    |
+| #    | Title            | Description                                                 |
+| ---- | ---------------- | ----------------------------------------------------------- |
+| 1    | Hello World      | Basic Hello World                                           |
+| 2    | Register         | Read/Write operations on registers with `mov`, `add`, `sub` |
+| 3    | Basic Arithmetic | Perform basic arithmetic with `add`, `sub`, `neg`, `inc`    |
+| 4    | Simple Loop      | Assign array with simple loop                               |
+| 5    | While Loop       | Read/Write array with while loop                            |
 
